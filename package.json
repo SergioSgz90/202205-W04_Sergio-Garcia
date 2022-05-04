@@ -1,0 +1,21 @@
+{
+    "name": "202205-w04_sergio-garcia",
+    "version": "1.0.0",
+    "description": "*Challenge 04 Week 04 By Sergio Garcia",
+    "main": "StricEquals.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "eslint ."
+    },
+    "author": "Sergio Garcia",
+    "license": "ISC",
+    "prettier": {
+        "singleQuote": true
+    },
+    "devDependencies": {
+        "eslint": "^8.14.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.26.0"
+    }
+}
