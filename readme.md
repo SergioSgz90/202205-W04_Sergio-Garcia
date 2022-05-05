@@ -2,7 +2,7 @@
 
 ## StricEquals Function
 
-the function StricEquals  evalutes the values A and B on the table below and returns the following  results: 
+The function StricEquals  evalutes the values A and B on the table below and returns the following  results: 
 
 | A       | B     | RESULT |                   |
 | ------- | ----- | ------ | ----------------- |
@@ -14,6 +14,8 @@ the function StricEquals  evalutes the values A and B on the table below and ret
 | true    | false | false  |                   |
 | false   | false | true   |                   |
 | "Water" | "oil" | false  |
+
+This function it's implemented without the operators === or == and replicates the behaviour of these two operators with the method object.is() and the logical operator !.
 
 ## Intructions
 Use the file input_values.js to introduce and evaluate the values for A and B (Line 4 & 5).
