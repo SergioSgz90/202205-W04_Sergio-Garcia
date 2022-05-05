@@ -17,7 +17,7 @@ The function StricEquals  evalutes the values A and B on the table below and ret
 
 This function it's implemented without the operators === or == and replicates the behaviour of these two operators with the method object.is() and the logical operator !.
 
-## Intructions
+## Instructions
 
 Use the Input_value.js to introduce your values for the variables A and B (Line 4 & 5)
 
