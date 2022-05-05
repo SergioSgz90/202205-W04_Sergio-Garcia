@@ -1,6 +1,6 @@
-*Challenge 04 Week 04 By Sergio Garcia
+# Challenge 04 Week 04 By Sergio Garcia
 
-**StricEquals Function
+## StricEquals Function
 
 the function StricEquals  evalutes the values A and B on tha table and returns the following  results: 
 
@@ -15,7 +15,7 @@ the function StricEquals  evalutes the values A and B on tha table and returns t
 | false   | false | true   |                   |
 | "Water" | "oil" | false  |
 
-**Intructions
+## Intructions
 Use the file Test.js to introduce the values for A and B.
 
 Github:
