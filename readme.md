@@ -2,7 +2,7 @@
 
 ## StricEquals Function
 
-the function StricEquals  evalutes the values A and B on tha table and returns the following  results: 
+the function StricEquals  evalutes the values A and B on the table below and returns the following  results: 
 
 | A       | B     | RESULT |                   |
 | ------- | ----- | ------ | ----------------- |
@@ -16,7 +16,7 @@ the function StricEquals  evalutes the values A and B on tha table and returns t
 | "Water" | "oil" | false  |
 
 ## Intructions
-Use the file Test.js to introduce the values for A and B.
+Use the file input_values.js to introduce and evaluate the values for A and B (Line 4 & 5).
 
 Github:
 202205-W04-Sergio-Garcia
