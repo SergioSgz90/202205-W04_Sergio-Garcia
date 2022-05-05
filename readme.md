@@ -15,7 +15,7 @@ the function StricEquals  evalutes the values A and B on the table below and ret
 | false   | false | true   |                   |
 | "Water" | "oil" | false  |
 
-## Intructions
+## Instructions
 Use the file input_values.js to introduce and evaluate the values for A and B (Line 4 & 5).
 
 Github:
